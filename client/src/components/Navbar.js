@@ -80,11 +80,7 @@ const Navbar = () => {
         spacing={!mobile ? 2 : 0}
       >
         <HorizontalStack>
-          <AiFillFileText
-            size={33}
-            color={theme.palette.primary.main}
-            onClick={() => navigate("/")}
-          />
+          <img src="https://i.imgur.com/lQmExQO.png" width="90" height="90"/>
           <Typography
             sx={{ display: mobile ? "none" : "block" }}
             variant={navbarWidth ? "h6" : "h4"}
