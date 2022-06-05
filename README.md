@@ -161,7 +161,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-@meteor314 - [@mmeteor314](https://github.com/meteor314) - meteor3141592@example.com
+@meteor314 - [@meteor314](https://github.com/meteor314) - meteor3141592@example.com
+@siafall - [@siafall](https://github.com/Siafall) - faysel@example.com
+@Dhief - [@Dhief](https://github.com/Dhief) - Selim@example.com
 
 Project Link: [https://github.com/meteoor314/linear](https://github.com/meteor314/lineare)
 
