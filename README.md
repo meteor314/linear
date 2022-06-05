@@ -15,7 +15,7 @@
     <img src="https://imgur.com/S89nnmM.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">Best-README-Template</h3>
+<h3 align="center">Linear</h3>
 
 <p align="center">
   A next gen responsive web design.
