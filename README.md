@@ -99,7 +99,7 @@ To install thhis project you  can copy and paste this command :
 You also need to create an .env file. So here is the content of .env file in root folder.
 
 ```sh
-cd .. &&  tocuh .env
+cd .. &&  touch .env
 nano .env
 #content of .env file : 
 MONGO_URI=mongodb+srv://my_mongo_user__name:my_mongo_pwd@cluster0.mfjzada.mongodb.net/?retryWrites=true&w=majority 
